@@ -12,4 +12,4 @@
 
 3. `Reducing OS jitter due to per-cpu kthreads` : https://www.kernel.org/doc/Documentation/kernel-per-CPU-kthreads.txt
 
-
+4. `Piecewise regression: when one line simply isn’t enough` : https://www.datadoghq.com/blog/engineering/piecewise-regression/
